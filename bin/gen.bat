@@ -1,0 +1,1 @@
+perl genbat.pl > makemovie.bat
